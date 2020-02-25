@@ -41,3 +41,26 @@
   height: 300px;
   border: 1px solid black;
 }
+.col-lg-window {
+  height: 150px;
+  border: 1px solid black;
+}
+.window-right {
+  position: relative;
+  background-color: rgb(199, 233, 255);
+  margin: 20px 28px 20px 35px;
+  width: 110px;
+  height: 110px;
+  border-radius: 200px;
+  border: 3px solid rgb(40, 149, 223);
+}
+
+.window-left {
+  position: relative;
+  background-color: rgb(199, 233, 255);
+  margin: 20px 35px 20px 28px;
+  width: 110px;
+  height: 110px;
+  border-radius: 200px;
+  border: 3px solid rgb(40, 149, 223);
+}
