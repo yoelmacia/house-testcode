@@ -94,3 +94,18 @@
   color: rgb(109, 109, 109);
   text-align: center;
 }
+.cookie-bakery {
+  border: 4px solid rgb(100, 168, 90);
+  background-color: rgb(143, 196, 133);
+  bottom: 35px;
+  left: 25%;
+  position: relative;
+  height: 50px;
+  width: 265px;
+}
+.cookie-bakery-text {
+  color: rgb(40, 83, 33);
+  text-align: center;
+  line-height: 43px;
+  font-weight: bold;
+}
