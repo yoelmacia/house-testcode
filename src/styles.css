@@ -9,3 +9,11 @@
   height: 300px;
   border: 1px solid black;
 }
+.ru-row-up {
+  height: 100px;
+  border: 1px solid black;
+}
+.ru-row-down {
+  height: 200px;
+  border: 1px solid black;
+}
