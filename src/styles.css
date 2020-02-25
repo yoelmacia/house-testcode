@@ -5,3 +5,7 @@
   height: 600px;
   background-color: pink;
 }
+.central-div-row {
+  height: 300px;
+  border: 1px solid black;
+}
