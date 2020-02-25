@@ -1,26 +1,19 @@
-.col-lg {
-  border: 1px solid black;
-}
 .central-div-on-grid {
   height: 600px;
-  background-color: pink;
 }
 .central-div-row {
   height: 300px;
-  border: 1px solid black;
 }
 .ru-row-up {
   height: 100px;
-  border: 1px solid black;
 }
 .ru-row-down {
   height: 200px;
-  border: 1px solid black;
 }
 .sun {
   position: relative;
   background-color: yellow;
-  margin: 10px 10px 10px 350px;
+  margin: 10px 10px 10px 400px;
   width: 110px;
   height: 110px;
   border-radius: 200px;
@@ -28,27 +21,24 @@
 .roof {
   border-left: 268px solid transparent;
   border-right: 268px solid transparent;
-  border-bottom: 199px solid rgb(225, 125, 110);
+  border-bottom: 200px solid rgb(225, 125, 110);
 }
 .house {
   height: 300px;
-  border: 1px solid black;
   background-color: rgb(204, 204, 204);
 }
 .col-lg-house {
   width: 170px;
   margin-left: 14px;
   height: 300px;
-  border: 1px solid black;
 }
 .col-lg-window {
   height: 150px;
-  border: 1px solid black;
 }
 .window-right {
   position: relative;
   background-color: rgb(199, 233, 255);
-  margin: 20px 34px 20px 28px;
+  margin: 20px 28px 20px 35px;
   width: 110px;
   height: 110px;
   border-radius: 200px;
@@ -66,8 +56,8 @@
 .door {
   margin: 15px;
   background-color: rgb(249, 177, 117);
-  height: 225px;
-  border: 1px solid black;
+  height: 228px;
+  border: 1px solid rgb(204, 204, 204);
   margin-top: 72px;
 }
 .doorknob {
@@ -81,7 +71,7 @@
   margin: 0px 24px 0px 34px;
   width: 100px;
   height: 85px;
-  border: 1px solid black;
+  border: 1px solid rgb(204, 204, 204);
   background-color: rgb(153, 153, 153);
 }
 .mailbox-opening {
