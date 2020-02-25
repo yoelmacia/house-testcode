@@ -35,7 +35,7 @@
 .col-lg-window {
   height: 150px;
 }
-.window-right {
+.window-left {
   position: relative;
   background-color: rgb(199, 233, 255);
   margin: 20px 28px 20px 35px;
@@ -44,7 +44,7 @@
   border-radius: 200px;
   border: 3px solid rgb(40, 149, 223);
 }
-.window-left {
+.window-right {
   position: relative;
   background-color: rgb(199, 233, 255);
   margin: 20px 35px 20px 28px;
