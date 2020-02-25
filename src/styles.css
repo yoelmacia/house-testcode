@@ -30,3 +30,8 @@
   border-right: 268px solid transparent;
   border-bottom: 199px solid rgb(225, 125, 110);
 }
+.house {
+  height: 300px;
+  border: 1px solid black;
+  background-color: rgb(204, 204, 204);
+}
