@@ -18,3 +18,25 @@ function windowManager() {
 }
 
 windowManager();
+
+function doorManager() {
+  let door = document.getElementsByClassName("door")[0];
+
+  function addCookieDatabase(element) {
+    const url = "http://localhost:8000/cookies/orders";
+
+    element.addEventListener("click", function() {
+      axios
+        .post(url)
+        .then(response => {
+          alert(response.data);
+        })
+        .catch(error => {
+          alert(error);
+        });
+    });
+  }
+  addCookieDatabase(door);
+}
+
+doorManager();
