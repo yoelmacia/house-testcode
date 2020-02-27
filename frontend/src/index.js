@@ -78,3 +78,17 @@ function sunManager() {
 }
 
 sunManager();
+
+function mailboxManager() {
+  let mailbox = document.getElementsByClassName("mailbox")[0];
+  mailbox.addEventListener(
+    "click",
+    e => {
+      mailbox.style.marginTop = "45px";
+      mailbox.style.transitionDuration = "1s";
+    },
+    { once: true }
+  );
+}
+
+mailboxManager();
